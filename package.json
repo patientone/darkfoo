@@ -20,6 +20,11 @@
                 "label": "Darkfoo",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Darkfoo-color-theme.json"
+            },
+            {
+                "label": "Darkfoo (Alt 1)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Darkfoo_alt1-color-theme.json"
             }
         ]
     }

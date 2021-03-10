@@ -1,6 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "Darkfoo",
+	"name": "Darkfoo (Alt 1)",
 	"type": "dark",
 	"colors": {
 		"activityBar.activeBackground": "#53777a",
@@ -10,7 +10,7 @@
 		"activityBarBadge.background": "#ccac95",
 		"activityBarBadge.foreground": "#000000",
 		"badge.background": "#626262",
-		"badge.foreground": "#ccac95",
+		"badge.foreground": "#dfcdc0",
 		"breadcrumb.activeSelectionForeground": "#80cbc4",
 		"breadcrumb.background": "#212121",
 		"breadcrumb.focusForeground": "#eeffff",
