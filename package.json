@@ -1,8 +1,8 @@
 {
     "name": "darkfoo",
     "displayName": "Darkfoo",
-    "description": "A dark theme for good",
-    "version": "0.0.2",
+    "description": "A dark theme for good (WARNING: this theme may change dramatically on a whim until this is removed)",
+    "version": "0.0.3",
     "icon": "images/icon.png",
     "publisher": "smthemes",
     "repository": {
