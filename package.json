@@ -1,0 +1,22 @@
+{
+    "name": "darkfoo",
+    "displayName": "Darkfoo",
+    "description": "A dark theme for good",
+    "version": "0.0.1",
+    "publisher": "sm",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Darkfoo",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Darkfoo-color-theme.json"
+            }
+        ]
+    }
+}
